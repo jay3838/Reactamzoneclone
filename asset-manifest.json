@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reactamzoneclone/static/css/main.0b2c3573.chunk.css",
+    "main.js": "/Reactamzoneclone/static/js/main.403adbaf.chunk.js",
+    "main.js.map": "/Reactamzoneclone/static/js/main.403adbaf.chunk.js.map",
+    "runtime-main.js": "/Reactamzoneclone/static/js/runtime-main.dde6ce1b.js",
+    "runtime-main.js.map": "/Reactamzoneclone/static/js/runtime-main.dde6ce1b.js.map",
+    "static/js/2.e0ade005.chunk.js": "/Reactamzoneclone/static/js/2.e0ade005.chunk.js",
+    "static/js/2.e0ade005.chunk.js.map": "/Reactamzoneclone/static/js/2.e0ade005.chunk.js.map",
+    "index.html": "/Reactamzoneclone/index.html",
+    "static/css/main.0b2c3573.chunk.css.map": "/Reactamzoneclone/static/css/main.0b2c3573.chunk.css.map",
+    "static/js/2.e0ade005.chunk.js.LICENSE.txt": "/Reactamzoneclone/static/js/2.e0ade005.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dde6ce1b.js",
+    "static/js/2.e0ade005.chunk.js",
+    "static/css/main.0b2c3573.chunk.css",
+    "static/js/main.403adbaf.chunk.js"
+  ]
+}
